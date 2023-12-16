@@ -7,16 +7,16 @@ let trysize=0,x=setInterval(function(){let e=document.querySelector('a[href="#us
 <b><a href="#">http://${n}:80/playlist/${r.value}/${i.value}/m3u_plus</a><br>
 <a href="#">http://${n}:80/playlist/${r.value}/${i.value}/m3u_plus?output=hls</a>
 <br><br><br>
-<br>Smart iptv - SSİPTV - SETİPTV KURULUM URLLERİ<br>
+<br>Smart iptv - SSİPTV - SETİPTV KURULUM URLLERİ<br><br>
 <br>hls<br>
-<a href="#">http://${n}:80/get.php?username=${r.value}&password=${i.value}&type=m3u_plus&?output=hls</a>
+<a href="#">http://${n}:80/get.php?username=${r.value}&password=${i.value}&type=m3u_plus&?output=hls</a><br>
 <br>ts<br>
-<a href="#">http://${n}:80/get.php?username=${r.value}&password=${i.value}&type=m3u_plus&?output=ts</a>
+<a href="#">http://${n}:80/get.php?username=${r.value}&password=${i.value}&type=m3u_plus&?output=ts</a><br>
 <br>m3u8<br>
-<a href="#">http://${n}:80/get.php?username=${r.value}&password=${i.value}&type=m3u_plus&?output=m3u8</a>
+<a href="#">http://${n}:80/get.php?username=${r.value}&password=${i.value}&type=m3u_plus&?output=m3u8</a><br>
 <br>mpegts<br>
-<a href="#">http://${n}:80/get.php?username=${r.value}&password=${i.value}&type=m3u_plus&?output=mpegts</a>
-
+<a href="#">http://${n}:80/get.php?username=${r.value}&password=${i.value}&type=m3u_plus&?output=mpegts</a><br>
+<br><br><br>
 
 
 </b> <br>
