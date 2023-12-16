@@ -6,7 +6,7 @@ UYDU CİHAZLARI İÇİN
 <br><br>
 <b>Kullanıcı Adı:</b> 4032zgrr<br>
 <b>Şifre:</b> BuCMET3cE8<br>
-<b>URL:</b> ${n}<br>
+<b>URL:</b> http://${n}<br>
 <b>PORT:</b> 00080 <br>
 <b><br><br><br>
 
@@ -14,7 +14,7 @@ XTREAM OLARAK LİSTE :
 <br><br>
 <b>Kullanıcı Adı:</b> ${r.value}<br>
 <b>Şifre:</b> ${i.value}<br>
-<b>URL:</b> ${n}:80<br>
+<b>URL:</b> http://${n}:80<br>
 <br><br><br>
 
 <hr>
