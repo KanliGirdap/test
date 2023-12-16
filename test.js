@@ -4,8 +4,8 @@ let trysize=0,x=setInterval(function(){let e=document.querySelector('a[href="#us
 <br>
 UYDU CİHAZLARI İÇİN
 <br><br>
-<b>Kullanıcı Adı:</b> 4032zgrr<br>
-<b>Şifre:</b> BuCMET3cE8<br>
+<b>Kullanıcı Adı:</b> ${r.value}<br>
+<b>Şifre:</b> ${i.value}<br>
 <b>URL:</b> ${n}<br>
 <b>PORT:</b> 00080 <br>
 <b><br><br><br>
