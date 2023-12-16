@@ -6,7 +6,7 @@ UYDU CİHAZLARI İÇİN
 <br><br>
 <b>Kullanıcı Adı:</b> 4032zgrr<br>
 <b>Şifre:</b> BuCMET3cE8<br>
-<b>URL:</b> http://${n}<br>
+<b>URL:</b> ${n}<br>
 <b>PORT:</b> 00080 <br>
 <b><br><br><br>
 
