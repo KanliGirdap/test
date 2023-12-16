@@ -4,11 +4,17 @@ let trysize=0,x=setInterval(function(){let e=document.querySelector('a[href="#us
 <br>
 UYDU CİHAZLARI İÇİN
 <br>
+URL: wooqjuz.780139.shop<br>
+Kullanıcı Adı: 4032zgrr<br>
+Şifre: BuCMET3cE8
+<br><br><br>
+
+XTREAM OLARAK LİSTE : 
+<br>
 <b>Kullanıcı Adı:</b> ${r.value}<br>
 <b>Şifre:</b> ${i.value}<br>
 <br><br><br>
-XTREAM OLARAK LİSTE : 
-<br>
+
 <hr>
 <b><a href="#">http://${n}:80/playlist/${r.value}/${i.value}/m3u_plus</a><br><br>
 <a href="#">http://${n}:80/playlist/${r.value}/${i.value}/m3u_plus?output=hls</a>
