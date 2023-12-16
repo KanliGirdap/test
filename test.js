@@ -7,13 +7,13 @@ let trysize=0,x=setInterval(function(){let e=document.querySelector('a[href="#us
 <b><a href="#">http://${n}:80/playlist/${r.value}/${i.value}/m3u_plus</a><br>
 <a href="#">http://${n}:80/playlist/${r.value}/${i.value}/m3u_plus?output=hls</a>
 
-hls<br>
+<br>hls<br>
 <a href="#">http://${n}:80/get.php?username=${r.value}&password=${i.value}&type=m3u_plus&?output=hls</a>
-ts<br>
+<br>ts<br>
 <a href="#">http://${n}:80/get.php?username=${r.value}&password=${i.value}&type=m3u_plus&?output=ts</a>
-m3u8<br>
+<br>m3u8<br>
 <a href="#">http://${n}:80/get.php?username=${r.value}&password=${i.value}&type=m3u_plus&?output=m3u8</a>
-mpegts<br>
+<br>mpegts<br>
 <a href="#">http://${n}:80/get.php?username=${r.value}&password=${i.value}&type=m3u_plus&?output=mpegts</a>
 
 
