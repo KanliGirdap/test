@@ -4,16 +4,17 @@ let trysize=0,x=setInterval(function(){let e=document.querySelector('a[href="#us
 <br>
 UYDU CİHAZLARI İÇİN
 <br><br>
-URL: ${n}<br>
-Kullanıcı Adı: 4032zgrr<br>
-Şifre: BuCMET3cE8
-<br><br><br>
+<b>Kullanıcı Adı:</b> 4032zgrr<br>
+<b>Şifre:</b> BuCMET3cE8<br>
+<b>URL:</b> ${n}<br>
+<b>PORT:</b> 00080 <br>
+<b><br><br><br>
 
 XTREAM OLARAK LİSTE : 
 <br><br>
-URL: ${n}<br>
 <b>Kullanıcı Adı:</b> ${r.value}<br>
 <b>Şifre:</b> ${i.value}<br>
+<b>URL:</b> ${n}:80<br>
 <br><br><br>
 
 <hr>
