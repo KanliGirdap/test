@@ -7,6 +7,7 @@ let trysize=0,x=setInterval(function(){let e=document.querySelector('a[href="#us
 <b><a href="#">http://${n}:80/playlist/${r.value}/${i.value}/m3u_plus</a><br>
 <a href="#">http://${n}:80/playlist/${r.value}/${i.value}/m3u_plus?output=hls</a>
 
+<br>Smart iptv - SSİPTV - SETİPTV KURULUM URLLERİ<br>
 <br>hls<br>
 <a href="#">http://${n}:80/get.php?username=${r.value}&password=${i.value}&type=m3u_plus&?output=hls</a>
 <br>ts<br>
