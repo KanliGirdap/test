@@ -3,8 +3,11 @@ function start(){
 let trysize=0,x=setInterval(function(){let e=document.querySelector('a[href="#user-details"]');if(console.log("Searching...",e.href),100==trysize&&clearInterval(x),e){clearInterval(x);let t=document.querySelector("#user-details > div > div"),l=document.createElement("p"),r=document.querySelector("#username"),i=document.querySelector("#password"),d=localStorage.getItem(r.value),a=localStorage.getItem("urller");(void 0==a||"undefined"==a)&&(a="URL Bulunamadı"),a=a.split(",");let n="";d&&"undefined"!=d&&void 0!=d?n=d:(d=localStorage.getItem("lastID")||0,localStorage.setItem("lastID",Number(d)+1),"undefined"!=(n=a[Number(d)])&&void 0!=n&&n||(localStorage.setItem("lastID","0"),n=a[Number(d)])),(void 0==n||"undefined"==n)&&(localStorage.setItem("lastID","0"),n=a[0]),"URL Bulunamadı"!==a[0]&&localStorage.setItem(r.value,n),l.id="extraarea",l.innerHTML=`<b>URL:</b> <a href="${n}">${n}</a> <br>
 <b>Kullanıcı Adı:</b> ${r.value}<br>
 <b>Şifre:</b> ${i.value}<br>
+<br><br><br>
+XTREAM OLARAK LİSTE : 
+<br>
 <hr>
-<b><a href="#">http://${n}:80/playlist/${r.value}/${i.value}/m3u_plus</a><br>
+<b><a href="#">http://${n}:80/playlist/${r.value}/${i.value}/m3u_plus</a><br><br>
 <a href="#">http://${n}:80/playlist/${r.value}/${i.value}/m3u_plus?output=hls</a>
 <br><br><br>
 <br>Smart iptv - SSİPTV - SETİPTV KURULUM URLLERİ<br><br>
