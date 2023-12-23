@@ -30,6 +30,8 @@ XTREAM OLARAK LİSTE :
 <a href="#">http://${n}:80/get.php?username=${r.value}&password=${i.value}&type=m3u_plus&?output=m3u8</a><br>
 <br>mpegts<br>
 <a href="#">http://${n}:80/get.php?username=${r.value}&password=${i.value}&type=m3u_plus&?output=mpegts</a><br>
+<br>SSİPTV KURULACAK ZORUNLU URL LÜTFEN SADECE BUNU KULLANIN <br>
+<a href="#">http://tinyurl.com/aressstv/get.php?username=${r.value}&password=${i.value}&type=m3u_plus&?output=hls </a><br>
 <br><br><br>
 
 
